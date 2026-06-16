@@ -1,6 +1,6 @@
 # Mi Bitácora de Aprendizaje
 
-Hoy estoy aprendiendo a usar Git paso a paso.
+Hoy estoy aprendiendo Git con Inteligencia Artificial.
 
 * Aprendí los 3 estados de Git
 * sigo modificando el archivo
