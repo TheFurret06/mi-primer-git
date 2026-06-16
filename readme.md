@@ -1,6 +1,4 @@
-# Mi Bitácora de Aprendizaje
-
-Hoy estoy aprendiendo Git con Inteligencia Artificial.
+Hoy estoy aprendiendo Git con Inteligencia Artificial de forma muy interactiva
 
 * Aprendí los 3 estados de Git
 * sigo modificando el archivo
